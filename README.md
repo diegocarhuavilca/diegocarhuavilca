@@ -54,6 +54,5 @@ Feel free to contact me by [📫 Email](diego.carhuavilca@gmail.com)
 
 <h3 align="center">Others</h3>
 <p align="center">
-
   <a href="https://git-scm.com/" target="_blank"><img height="42px" src="https://img.icons8.com/color/2x/git.png" /></a>
 </p>
