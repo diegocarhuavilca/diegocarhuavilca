@@ -17,7 +17,7 @@ Feel free to contact me by [📫 Email](diego.carhuavilca@gmail.com)
 - 🌱 I’m currently learning  React and Flutter.
 - 👯 I’m looking to collaborate on every project that looks intersesting.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&show_icons=true)](https://github.com/diegocarhuavilca/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegocarhuavilca&theme=radical&show_icons=true)](https://github.com/diegocarhuavilca/github-readme-stats)
 <h2>Skills</h2>
 
 <h3 align="center">Web development</h3>
