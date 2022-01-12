@@ -56,3 +56,5 @@ Feel free to contact me by [📫 Email](diego.carhuavilca@gmail.com)
 <p align="center">
   <a href="https://git-scm.com/" target="_blank"><img height="42px" src="https://img.icons8.com/color/2x/git.png" /></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
