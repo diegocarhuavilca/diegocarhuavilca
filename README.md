@@ -2,7 +2,9 @@
 
 
 <h2>Bio</h2>
-<img align="right" alt="Julio Treviño's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diegocarhuavilca&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=diegocarhuavilca&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
   
 My name is [Diego Carhuavilca](https://github.com/diegocarhuavilca)and I'm a peruvian frontend developer 
 
@@ -57,4 +59,4 @@ Feel free to contact me by [📫 Email](diego.carhuavilca@gmail.com)
   <a href="https://git-scm.com/" target="_blank"><img height="42px" src="https://img.icons8.com/color/2x/git.png" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
