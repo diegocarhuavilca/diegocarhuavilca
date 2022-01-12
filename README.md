@@ -5,7 +5,7 @@
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=diegocarhuavilca&count_private=true&show_icons=true&hide_border=true&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=diegocarhuavilca&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
   
 My name is [Diego Carhuavilca](https://github.com/diegocarhuavilca)and I'm a peruvian frontend developer 
 
@@ -17,7 +17,7 @@ Feel free to contact me by [📫 Email](diego.carhuavilca@gmail.com)
 - 🌱 I’m currently learning  React and Flutter.
 - 👯 I’m looking to collaborate on every project that looks intersesting.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&show_icons=true)](https://github.com/diegocarhuavilca/github-readme-stats)
 <h2>Skills</h2>
 
 <h3 align="center">Web development</h3>
