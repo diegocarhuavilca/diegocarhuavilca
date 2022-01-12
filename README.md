@@ -3,12 +3,15 @@
 
 <h2>Bio</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=diegocarhuavilca&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
   
 My name is [Diego Carhuavilca](https://github.com/diegocarhuavilca)and I'm a peruvian frontend developer 
 
 Feel free to contact me by [📫 Email](diego.carhuavilca@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Additional info
 
